@@ -10,3 +10,5 @@
 ## Collaboration / Repositories
 # GitHub
 1. 25 MB files
+2. Use the following template url to download code
+  * * https://github.com/Mongoose2k3/HowTo/archive/refs/heads/main.zip
