@@ -3,6 +3,8 @@
 ## Social Media
 # X.com
 1. videos limited to 140 seconds
+2. You are over the daily limit for sending posts. ???
+3. daily reposts ??
 
 # TikTok
 1. ??
